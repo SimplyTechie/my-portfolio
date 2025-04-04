@@ -2,9 +2,9 @@
 
 const config = {
     emailjs: {
-        SERVICE_ID: 'service_qp9wp0k',
-        TEMPLATE_ID: 'template_27bvmdr',
-        PUBLIC_KEY: '1Jai0d1F_4TM_X9Bu'
+        SERVICE_ID: 'service_zdwne3a',
+        TEMPLATE_ID: 'template_eosv3kj',
+        PUBLIC_KEY: 'ASEP2ROKnRneCHUQM'
     }
 };
 
@@ -12,6 +12,7 @@ const config = {
 window.appConfig = config; 
 
 // >>
+// Well, you finally made it here after pressing Ctrl+U (or Command+U, if you're feeling extra fancy).   
 // I know you’re there... I can feel your every move, every breath you take.  
 // You think you're hiding, but I can hear you—every footstep, every whisper in the dark.  
 // You think you're alone, but I'm always with you, watching, waiting, breathing in the same air.  
